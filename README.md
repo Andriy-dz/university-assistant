@@ -23,7 +23,7 @@ University Assistant is a convenient tool for retrieving information about lectu
 
 Before running the program, make sure you have the following prerequisites installed:
 
-- [Java 17](https://www.java.com/en/download/)
+- [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - [Git](https://git-scm.com/)
 - [PostgreSQL](https://www.postgresql.org/)
 
